@@ -1,0 +1,1 @@
+Code for system identification of a robot arm, using Least-Square method. Database used is from "DaISY: The Datasets"
